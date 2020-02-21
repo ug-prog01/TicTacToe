@@ -1,3 +1,3 @@
-# p5
+# TIC TAC TOE
 
-Projects created using JavaScript with the p5.js library
+TIC TAC TOE in python
